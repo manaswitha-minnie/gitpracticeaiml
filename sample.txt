@@ -2,3 +2,5 @@ hlo everyone
 welcome to git!
 welcome to local repo!
 bye bye
+github
+manasweitha-minnie user.name
