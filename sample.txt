@@ -1,0 +1,4 @@
+hlo everyone
+welcome to git!
+welcome to local repo!
+bye bye
